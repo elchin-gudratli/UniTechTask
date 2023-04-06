@@ -10,11 +10,7 @@ import org.hibernate.annotations.DynamicUpdate;
 import java.io.Serializable;
 import java.math.BigDecimal;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 12:59 PM
- */
+
 @Entity
 @Table(name = "accounts")
 @Data

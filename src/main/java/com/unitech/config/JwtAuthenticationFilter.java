@@ -1,7 +1,6 @@
 package com.unitech.config;
 
 
-import com.unitech.security.details.CustomUserDetails;
 import com.unitech.security.service.JwtService;
 import com.unitech.service.CustomUserDetailsService;
 import jakarta.servlet.FilterChain;

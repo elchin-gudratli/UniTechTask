@@ -14,11 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 12:29 PM
- */
+
 @RestController
 @RequestMapping("${root.url}/user")
 @RequiredArgsConstructor

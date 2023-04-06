@@ -9,11 +9,6 @@ import org.hibernate.annotations.DynamicUpdate;
 
 import java.io.Serializable;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 1:03 PM
- */
 @Entity
 @Table(name = "user_accounts")
 @Data

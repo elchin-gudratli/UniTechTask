@@ -12,11 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 2:36 PM
- */
+
 @RestController
 @RequestMapping("${root.url}/account")
 @RequiredArgsConstructor

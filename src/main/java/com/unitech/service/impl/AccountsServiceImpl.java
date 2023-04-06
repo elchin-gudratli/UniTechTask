@@ -23,11 +23,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 1:08 PM
- */
+
 @Slf4j
 @Service
 @Transactional

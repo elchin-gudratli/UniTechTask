@@ -5,11 +5,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 12:26 PM
- */
+
 @Data
 @Builder
 @AllArgsConstructor

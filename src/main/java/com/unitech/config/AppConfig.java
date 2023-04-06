@@ -11,11 +11,6 @@ import org.springframework.security.config.annotation.authentication.configurati
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 12:41 PM
- */
 @Configuration
 @RequiredArgsConstructor
 public class AppConfig {

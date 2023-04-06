@@ -6,11 +6,7 @@ import lombok.NoArgsConstructor;
 
 import java.math.BigDecimal;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 2:33 PM
- */
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

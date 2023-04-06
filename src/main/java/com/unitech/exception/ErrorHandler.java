@@ -8,11 +8,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 12:50 PM
- */
+
 @RestControllerAdvice
 public class ErrorHandler extends ResponseEntityExceptionHandler {
 

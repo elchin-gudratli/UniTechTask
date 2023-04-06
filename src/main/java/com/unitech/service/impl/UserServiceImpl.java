@@ -10,7 +10,6 @@ import com.unitech.repository.UserRepository;
 import com.unitech.security.service.JwtService;
 import com.unitech.service.CustomUserDetailsService;
 import com.unitech.service.UserService;
-import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.authentication.AuthenticationManager;
@@ -21,11 +20,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Optional;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 12:28 PM
- */
+
 @Slf4j
 @Service
 @Transactional

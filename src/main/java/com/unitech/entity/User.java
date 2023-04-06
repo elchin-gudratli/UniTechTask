@@ -9,12 +9,6 @@ import lombok.NoArgsConstructor;
 import org.hibernate.annotations.DynamicUpdate;
 import java.io.Serializable;
 
-/**
- * unitech
- * Elchin
- * 4/4/2023 3:50 PM
- */
-
 @Entity
 @Table(name = "users")
 @Data
